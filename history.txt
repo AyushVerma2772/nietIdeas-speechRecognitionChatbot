@@ -1,0 +1,15 @@
+************************************
+Time: 16:05:23-10:32:40
+User:
+Hiii
+MyChatBot:
+Hi there! How can I help you?
+
+
+************************************
+Time: 16:05:23-10:33:00
+User:
+what is the speed of lightMyChatBot:
+The speed of light in a vacuum is approximately 299,792,458 meters per second.
+
+
